@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="50%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Rounded Gradient Background Box -->
+  <rect width="512" height="512" rx="128" fill="url(#logoGradient)"/>
+  
+  <!-- White Stethoscope Icon -->
+  <g transform="translate(96, 96) scale(13.33)" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M4.8 2.4A2.4 2.4 0 0 0 2.4 4.8v4.8A7.2 7.2 0 0 0 9.6 16.8h.001a7.2 7.2 0 0 0 7.199-7.2V4.8a2.4 2.4 0 0 0-2.4-2.4"/>
+    <path d="M9.6 16.8V20.4a3.6 3.6 0 0 0 7.2 0V19.2"/>
+    <circle cx="16.8" cy="19.2" r="1.8" fill="#ffffff"/>
+    <circle cx="4.8" cy="3" r="1.2" fill="#ffffff"/>
+    <circle cx="14.4" cy="3" r="1.2" fill="#ffffff"/>
+  </g>
+</svg>
