@@ -1,0 +1,12 @@
+# MyDoctorBook - Official Healthcare Platform
+
+> MyDoctorBook is India's leading digital health platform for booking doctor consultations, OPD ticket tokens, diagnostic lab tests, and emergency blood & organ donor network matching.
+
+## Core Platform Services & Pages
+
+- [Doctor Appointment Booking](https://mydoctorbook.in/doctors)
+- [Diagnostic Lab Test Marketplace](https://mydoctorbook.in/labs)
+- [Online Pharmacy Medicine Delivery](https://mydoctorbook.in/pharmacy)
+- [Doctor Comparison & Specialization Battle](https://mydoctorbook.in/compare)
+- [Digital ABHA Health ID & Health Capsule Vault](https://mydoctorbook.in/health-capsule)
+- [Official Website Homepage](https://mydoctorbook.in/)
